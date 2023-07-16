@@ -101,8 +101,36 @@ font-size: 45px;
 font-weight: 700;
 
 }
+.naf{
+    padding-left: 70px;
+}
+.kola{
+    border: 2px solid tomato;
+    padding: 40px 30px;
+}
+.sei{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+.tui{
+    color: var(--dark-02, #424242);
+font-family: Work Sans;
+font-size: 45px;
 
+font-weight: 600;
 
+}
+.tumi{
+    color: var(--dark-03, #727272);
+text-align: center;
+font-family: Work Sans;
+font-size: 20px;
+
+font-weight: 600;
+
+}
 
 
 
